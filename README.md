@@ -28,6 +28,12 @@ First, the general demographics data are clustered through a KMeans clustering a
 
 [Project Notebook: Customer Segmentations](https://nbviewer.jupyter.org/github/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%203%20-%20Identify%20Customer%20Segementation/Identify_Customer_Segments.ipynb?flush_cache=true)
 
+### Project 4 - Disaster Response Pipeline
+
+**Description:**
+
+In this project, I built a data transformation - machine learning pipeline that is capable to curate the class of the messages. The pipeline is eventually built into a flask application. The project include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+
 
 
 
