@@ -4,12 +4,15 @@
 
 In this project, I built a data transformation - machine learning pipeline that is capable to curate the class of the messages. The pipeline is eventually built into a flask application. The project include a web app where an emergency worker can input a new message and get classification results in several categories. The landing page of the webapp also includes 4 visualizations of the training dataset built with plotly.
 
-### Prerequisites
-#### Libraries
-To be able to run this project, you need to install the required libraries in the `requirements.txt`. Run the command below.
-```
-pip install -r requirements.txt
-```
+### Dependencies
+* Python 3.5+
+* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+* Natural Language Process Libraries: NLTK
+* SQLlite Database Libraqries: SQLalchemy
+* Model Loading and Saving Library: Pickle
+* Web App and Data Visualization: Flask, Plotly
+
+
 ### Model
 You can build your own model using `train_classifier.py`, but if you want to use the pre-trained model you can download it [here](https://drive.google.com/file/d/1ngLraihD2DlodsrLRuz6wLofkWCGaWc5/view?usp=sharing).
 
@@ -23,7 +26,6 @@ The project contains the following files,
 * app/templates/~.html: HTML pages for the web app.
 * run.py: Start the Python server for the web app and prepare visualizations.
 
-The app is now deployed on heroku at this [link](https://disaster-response-app184.herokuapp.com/)
 
 Example message to classify: "Help, Fire!"
 
