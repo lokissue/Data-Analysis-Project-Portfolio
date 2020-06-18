@@ -41,10 +41,10 @@ Example message to classify: "Help, Fire!"
 
 2. Run the following command in the app's directory to run your web app.
     ```
-    python app.py
+    python run.py
     ```
 
-3. Go to the local host: http://127.0.0.1:5000/
+3. Go to the local host: http://0.0.0.0:3001/
 
 
 ![Webapp Screenshot](https://github.com/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%204%20-%20Disaster%20Response%20Pipeline/app/webapp%20screenshot.png?raw=true)
