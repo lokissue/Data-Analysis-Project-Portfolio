@@ -17,3 +17,19 @@ Going forward, AI algorithms will be incorporated into more and more everyday ap
 In this project, I trained an image classifier to recognize different species of flowers. You can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice one would train this classifier, then export it for use in application. We'll be using this dataset of 102 flower categories
 
 [Project Notebook: Image Classifier](https://nbviewer.jupyter.org/github/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project2%20-%20Image%20Classifier%20Application/Image%20Classifier%20Project.ipynb)
+
+### Project 3 - Identifying Customers Segmentations
+
+**Description:** 
+
+In this project, I applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that you will use has been provided by our partners at Bertelsmann Arvato Analytics, and represents a real-life data science task.
+
+First, the general demographics data are clustered through a KMeans clustering algorithms, then the same parameters are applied over the customer dataset to investigate if the customers are following the same distributions.
+
+[Project Notebook: Customer Segmentations](https://nbviewer.jupyter.org/github/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%203%20-%20Identify%20Customer%20Segementation/Identify_Customer_Segments.ipynb?flush_cache=true)
+
+
+
+
+
+
