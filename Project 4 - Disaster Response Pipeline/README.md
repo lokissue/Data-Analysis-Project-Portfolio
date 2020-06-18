@@ -47,4 +47,4 @@ Example message to classify: "Help, Fire!"
 3. Go to the local host: http://127.0.0.1:5000/
 
 
-![Webapp Screenshot](https://raw.githubusercontent.com/chenbowen184/Data_Science_Portfolio/master/Project%205%20-%20Disaster%20Response%20Pipeline/app/webapp%20screenshot.png)
+![Webapp Screenshot](https://github.com/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%204%20-%20Disaster%20Response%20Pipeline/app/webapp%20screenshot.png?raw=true)
