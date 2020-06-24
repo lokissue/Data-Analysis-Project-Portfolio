@@ -39,6 +39,7 @@ In this project, I built a data transformation - machine learning pipeline that 
 **Description:**
 
 In this project, I developed a recommendation engine's algorithm with IBM communities articles and user interactions. This project will serve as a prototype of the recommender systems of the article recommendation systems of IBM. The project will be hosted on 
+
 [Project Notebook: Recommendations with IBM](https://nbviewer.jupyter.org/github/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%205%20-%20Recommendation%20System/Recommendations_with_IBM.ipynb)
 
 
