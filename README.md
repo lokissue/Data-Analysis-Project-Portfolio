@@ -34,7 +34,12 @@ First, the general demographics data are clustered through a KMeans clustering a
 
 In this project, I built a data transformation - machine learning pipeline that is capable to curate the class of the messages. The pipeline is eventually built into a flask application. The project include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
+### Project 6 - Recommendation System
 
+**Description:**
+
+In this project, I developed a recommendation engine's algorithm with IBM communities articles and user interactions. This project will serve as a prototype of the recommender systems of the article recommendation systems of IBM. The project will be hosted on 
+[Project Notebook: Recommendations with IBM](https://nbviewer.jupyter.org/github/lokissue/Data-Analysis-Project-Portfolio/blob/master/Project%205%20-%20Recommendation%20System/Recommendations_with_IBM.ipynb)
 
 
 
