@@ -34,7 +34,7 @@ First, the general demographics data are clustered through a KMeans clustering a
 
 In this project, I built a data transformation - machine learning pipeline that is capable to curate the class of the messages. The pipeline is eventually built into a flask application. The project include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
-### Project 6 - Recommendation System
+### Project 5 - Recommendation System
 
 **Description:**
 
